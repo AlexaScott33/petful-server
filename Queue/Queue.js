@@ -67,3 +67,5 @@ function display(queue) {
   }
   return;
 }
+
+module.exports = { Queue, peek };

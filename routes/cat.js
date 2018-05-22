@@ -5,8 +5,11 @@ const router = express.Router();
 
 const cat = require('../db/cats');
 
+const Queue = require('../Queue/Queue');
+
 /* ========== GET/READ  ========== */
 router.get('/cat', (req, res) => {
+
   return res.json(cat[0]);
 });
 
