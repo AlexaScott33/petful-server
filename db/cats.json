@@ -6,7 +6,7 @@
       "sex": "Female",
       "age": "2",
       "breed": "Bengal",
-      "story": "Thrown on the street"
+      "story": "Thrown on the street."
     },
     {
       "imageURL": "https://d17fnq9dkz9hgj.cloudfront.net/uploads/2012/11/91615172-find-a-lump-on-cats-skin-632x475.jpg", 
@@ -15,7 +15,7 @@
       "sex": "Male",
       "age": "5",
       "breed": "British Shorthair",
-      "story": "Found in neighborhood"
+      "story": "Found in neighborhood."
     },
     {
       "imageURL": "http://cdn1-www.cattime.com/assets/uploads/gallery/persian-cats-and-kittens/persian-cats-and-kittens-8.jpg", 
@@ -24,6 +24,24 @@
       "sex": "Female",
       "age": "1",
       "breed": "Persian",
-      "story": "Brought in by someone"
+      "story": "Brought in by someone."
+    },
+    {
+      "imageURL": "https://pbs.twimg.com/profile_images/948294484596375552/RyGNqDEM_400x400.jpg", 
+      "imageDescription": "Grumpy cat with baby blue eyes.",
+      "name": "Sunshine",
+      "sex": "Male",
+      "age": "8",
+      "breed": "Grumpy cat",
+      "story": "He's always grumpy!"
+    },
+    {
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Garfield_the_Cat.svg/1200px-Garfield_the_Cat.svg.png", 
+      "imageDescription": "Beautiful orange cat that weighs 10 pounds.",
+      "name": "Garfield",
+      "sex": "Male",
+      "age": "10",
+      "breed": "Exotic Shorthair",
+      "story": "He'll eat all your food."
     }
   ]

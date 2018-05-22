@@ -6,11 +6,11 @@
       "sex": "Male",
       "age": "3",
       "breed": "Golden Retriever",
-      "story": "Owner Passed away"
+      "story": "Owner Passed away."
     },
     {
       "imageURL": "http://www.bcskinvet.com/storage/app/media/heroimage.jpg",
-      "imageDescription": "A golden pitbull with a white stripe",
+      "imageDescription": "A golden pitbull with a white stripe.",
       "name": "Harper",
       "sex": "Female",
       "age": "1",
@@ -24,6 +24,24 @@
       "sex": "Male",
       "age": "5",
       "breed": "French Bulldog",
-      "story": "Owner was allergic. "
+      "story": "Owner was allergic."
+    },
+    {
+      "imageURL": "https://i.pinimg.com/736x/29/6b/e4/296be47b8e6fd43e2ef0b2bb6d919bf7--smiling-dogs-smiling-animals.jpg",
+      "imageDescription": "The always smiling pup.",
+      "name": "Leo",
+      "sex": "Male",
+      "age": "2",
+      "breed": "Mixed",
+      "story": "Looking for a new home."
+    },
+    {
+      "imageURL": "https://gfp-2a3tnpzj.stackpathdns.com/wp-content/uploads/2016/07/Dachshund-600x600.jpg",
+      "imageDescription": "A black and brown puppy.",
+      "name": "Sandy",
+      "sex": "Female",
+      "age": "1",
+      "breed": "Dachshund",
+      "story": "Man's best friend."
     }
   ]
