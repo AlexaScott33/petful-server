@@ -3,8 +3,6 @@
 const express = require('express');
 const router = express.Router();
 
-const cat = require('../db/cats');
-
 const catQueue = require('../Queue/cat-queue');
 const peek = require('../Queue/helper-functions');
 

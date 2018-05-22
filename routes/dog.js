@@ -3,12 +3,13 @@
 const express = require('express');
 const router = express.Router();
 
-const dog = require('../db/dogs');
+const dogQueue = require('../Queue/dog-queue');
+const peek = require('../Queue/helper-functions');
 
 
 /* ========== GET/READ ALL ITEMS ========== */
 router.get('/dog', (req, res) => {
-  return res.json(dog[0]);
+  res.json(peek(dogQueue));
 });
 
 /* ========== DELETE/REMOVE  ========== */
