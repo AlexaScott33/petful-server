@@ -5,7 +5,6 @@ const router = express.Router();
 
 const dog = require('../db/dogs');
 
-const Queue = require('../Queue/Queue');
 
 /* ========== GET/READ ALL ITEMS ========== */
 router.get('/dog', (req, res) => {

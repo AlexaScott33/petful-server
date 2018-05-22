@@ -5,12 +5,12 @@ const router = express.Router();
 
 const cat = require('../db/cats');
 
-const Queue = require('../Queue/Queue');
+const catQueue = require('../Queue/cat-queue');
+const peek = require('../Queue/helper-functions');
 
 /* ========== GET/READ  ========== */
 router.get('/cat', (req, res) => {
-
-  return res.json(cat[0]);
+  res.json(peek(catQueue));
 });
 
 /* ========== DELETE/REMOVE  ========== */
