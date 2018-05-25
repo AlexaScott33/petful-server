@@ -33,6 +33,13 @@ https://petful-app.herokuapp.com/
 * Run the development task: `npm start`
     * Starts a server running at http://localhost:8080
 
+### Sample Request:
+http://localhost:8080/api/cat
+
+### Sample Response:
+
+<img width="803" alt="screen shot 2018-05-24 at 6 28 22 pm" src="https://user-images.githubusercontent.com/35544816/40521416-5dc9dfa2-5f80-11e8-8b2e-05db8955a82a.png">
+
 
 
 
