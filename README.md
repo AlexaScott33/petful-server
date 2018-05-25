@@ -1,6 +1,7 @@
 # Petful
 
-Backend code for [Petful](https://stoic-hermann-c47376.netlify.com/) app.
+Backend code for <a href="https://stoic-hermann-c47376.netlify.com/" target="_blank">Petful</a> app.
+
 
 ## View the Frontend code here:
 https://github.com/AlexaScott33/petful-client
